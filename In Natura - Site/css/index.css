@@ -1,0 +1,25 @@
+
+article p {
+    text-align: justify;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 40px;
+}
+
+.sobre img {
+    width: 100%;
+    height: auto;
+    border-bottom: 10px solid #6ead50;
+    border-top: 10px solid #6ead50;
+}
+
+.sustentabilidade img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-top: 10px solid #6ead50;
+}
+
+h2{
+    padding-top: 30px;
+}

@@ -1,0 +1,91 @@
+section nav{
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+.curry {
+    flex: 1;
+    background-color:#964f2e;
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+    width: 250px;
+    height: 250px
+}
+
+.curry img {
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+}
+
+.tacos {
+    flex: 1;
+    background-color:#964f2e;
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+    width: 250px;
+    height: 250px;
+}
+
+.tacos img {
+    width: 100%;
+    height: 220px;
+    border-radius: 8px;
+}
+
+.berinjela {
+    flex: 1;
+    background-color:#964f2e;
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+    width: 250px;
+    height: 250px;
+}
+
+.berinjela img {
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+}
+
+.curry a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Bree Serif';
+    font-size: 0.8cm;
+}
+
+.tacos a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Bree Serif';
+    font-size: 0.8cm;
+}
+
+.berinjela a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Bree Serif';
+    font-size: 0.8cm;
+}
+
+.curry:hover {
+    transition: 0.4s;
+    background-color: #471905;
+}
+
+.tacos:hover {
+    transition: 0.4s;
+    background-color: #471905;
+}
+
+.berinjela:hover {
+    transition: 0.4s;
+    background-color: #471905;
+}

@@ -1,0 +1,14 @@
+article  ol li{
+    font-family: 'Bree serif';
+    text-align: justify;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 40px;
+}
+
+aside img {
+    width: 100%;
+    height: auto;
+    border-top: 10px solid #6ead50;
+    display: block;
+}
